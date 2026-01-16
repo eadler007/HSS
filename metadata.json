@@ -1,0 +1,7 @@
+{
+  "name": "NFC HSS Park Scorer",
+  "description": "National Fitness Campaign tool to find, score, and visualize city-owned parks with healthy site metrics and bike isochrones.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
